@@ -105,7 +105,7 @@ public class thomyorke {
                     break;
                 }
             }
-            if (duuplikat) break;
+            if (duuuplikat) break;
         }
         if (duuuplikat) {
             System.out.println("Array memiliki duplikat: " + duplikat);
